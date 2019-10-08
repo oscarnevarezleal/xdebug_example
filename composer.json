@@ -1,0 +1,15 @@
+{
+    "name": "oscar/insightrix-phpunit",
+    "authors": [
+        {
+            "name": "Oscar Nevarez",
+            "email": "fu.wire@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"": "./"},
+    },
+    "require": {
+        "phpunit/phpunit": "^8.4"
+    }
+}
