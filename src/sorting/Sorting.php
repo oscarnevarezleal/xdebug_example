@@ -5,6 +5,7 @@
  * Date: 10/8/2019
  * Time: 3:13 PM
  */
+namespace App\Sorting;
 
 class Sorting
 {
@@ -20,7 +21,7 @@ class Sorting
 
     public function sort()
     {
-        $ip = new ImportantStuff();
+        //$ip = new ImportantStuff();
         $this->items = [9, 8, 7, 0, 1, 2, 3, 4, 5];
         print_r($this->items);
         echo "Sorting! \n";

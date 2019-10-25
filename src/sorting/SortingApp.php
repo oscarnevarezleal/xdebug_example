@@ -5,8 +5,8 @@
  * Date: 10/8/2019
  * Time: 3:13 PM
  */
-include_once 'Sorting.php';
-include_once 'ImportantStuff.php';
+
+namespace App\Sorting;
 
 class SortingApp
 {
