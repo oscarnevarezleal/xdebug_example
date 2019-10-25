@@ -6,6 +6,9 @@
  * Time: 3:25 PM
  */
 
+namespace App\test;
+
+use App\Sorting\Sorting;
 use PHPUnit\Framework\TestCase;
 
 
